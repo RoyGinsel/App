@@ -1,29 +1,21 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="sidebar">
+<div class="sidebar d-flex flex-column">
     <NavMenu />
+        <button type="button" class="btn-primary" style="bottom: 0;" data-toggle="modal" data-target="#exampleModal">
+            Preferences <span class="material-icons font-weight-bold">settings</span>
+        </button>
 </div>
+<SPA1.Client.Pages.Components.PreferencesTab />
 
 <div class="main">
-    <div class="top-row px-4">
-        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
-        <span class="material-icons">http</span>
-        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
-        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
-        <span class="material-icons fixed-bottom font-weight-bold" @onclick="openSettingsMenu">settings</span>
-    </div>
+    <HeaderLayout />
+
     <div class="content px-4">
         @Body
-     <SPA1.Client.Pages.Components.PreferencesTab classCSS="@PreferencesCssClass" open="true" />
     </div>
 
 </div>
 
 @code{
-    private bool PreferencesTab;
-    private string PreferencesCssClass => PreferencesTab ? "" : "d-none";
-    private void openSettingsMenu()
-    {
-        PreferencesTab = true;
-    }
 }

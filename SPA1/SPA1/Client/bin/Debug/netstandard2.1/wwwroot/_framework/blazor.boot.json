@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "SPA1.Client.dll": "sha256-Mtu8n48SSebfnd\/m9YLt\/UenYhFlMmvUzQx1Rfy2sJE=",
+      "SPA1.Client.dll": "sha256-W8Ptp6Alodoh2raxlBriHvDRyZBmESRtX\/eZzf5V8Ho=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -98,7 +98,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "SPA1.Client.pdb": "sha256-6o5IDJwBIYXyyklmA1HjMgrH9jR6RWyyIlHXI9B6mbI=",
+      "SPA1.Client.pdb": "sha256-\/iBSLGmi3YijflPNumTzYzmgFiSZkxbpdQtBflOeSdk=",
       "SPA1.Shared.pdb": "sha256-SlBM49S5\/GTS\/iRISVexd9AB0c5dhINCAJEmtdJLsrk="
     },
     "runtime": {

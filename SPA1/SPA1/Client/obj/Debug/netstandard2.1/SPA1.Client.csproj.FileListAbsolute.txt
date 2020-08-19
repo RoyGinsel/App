@@ -352,7 +352,6 @@ C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\stat
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\SPA1.Client.dll
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\SPA1.Client.pdb
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Skeleton.razor.g.cs
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Dashboard.razor.g.cs
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\SPA1.Client.csproj.CoreCompileInputs.cache
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\RazorDeclaration\SPA1.Client.dll
@@ -361,7 +360,6 @@ C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\SPA1
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\SPA1.Client.RazorCoreGenerate.cache
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Pages\Dashboard.razor.g.cs
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Pages\Skeleton.razor.g.cs
@@ -592,6 +590,10 @@ C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\comp
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Http.Extensions.dll.br
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\gOMA2Rh_nY8QWIzwanZL-Nj5sDlHvBbnwRotpyw49ng=.hash
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\SlBM49S5-GTS-iRISVexd9AB0c5dhINCAJEmtdJLsrk=.hash
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\Mtu8n48SSebfnd-m9YLt-UenYhFlMmvUzQx1Rfy2sJE=.hash
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\6o5IDJwBIYXyyklmA1HjMgrH9jR6RWyyIlHXI9B6mbI=.hash
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\SHmvY_wgCZyKJ8jf9ehBsh1o6TgldgbxEeN4HgOjiL8=.hash
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\HeaderLayout.razor.g.cs
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Shared\HeaderLayout.razor.g.cs
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies..razor.g.cs
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies..razor.g.cs
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\W8Ptp6Alodoh2raxlBriHvDRyZBmESRtX-eZzf5V8Ho=.hash
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\-iBSLGmi3YijflPNumTzYzmgFiSZkxbpdQtBflOeSdk=.hash
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Client\obj\Debug\netstandard2.1\integrity\qK773nWIOhMWMsSKztWGHEA_UMMKWN7uXVt2aBIzcJ8=.hash

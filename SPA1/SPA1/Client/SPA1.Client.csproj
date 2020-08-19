@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <None Include="compilerconfig.json" />
+    <None Include="wwwroot\Images\Front-page-static.jpg" />
   </ItemGroup>
 
   <ItemGroup>

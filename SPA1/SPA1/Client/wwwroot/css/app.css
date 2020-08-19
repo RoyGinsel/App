@@ -202,3 +202,13 @@ img {
     max-height: 100%;
     display: block; /* remove extra space below image */
 }
+.modal-backdrop {
+    height: 0px !important;
+}
+.modal {
+    background: rgba(0,0,0,0.4)
+}
+
+.carousel-item {
+    height: 50vh;
+}
