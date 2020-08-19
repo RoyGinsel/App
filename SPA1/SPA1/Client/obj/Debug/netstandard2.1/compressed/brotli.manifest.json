@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\biFL7wbW34VhyPWDi68Ml8MK_l5ao1N-UbN_rYDhO9g=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Mtu8n48SSebfnd-m9YLt-UenYhFlMmvUzQx1Rfy2sJE=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SPA1.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SPA1.Client.dll.br"
     },
@@ -191,19 +191,24 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5idsOzPbVJzRqUKuVeybFoniZouWxS3kR0m0R5emee0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\gOMA2Rh_nY8QWIzwanZL-Nj5sDlHvBbnwRotpyw49ng=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SPA1.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SPA1.Shared.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
-      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\abtsWYHyiDSnb3-mrnQHPAAVb7iJKoWQPQYK_gLSn8w=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Mvc.Core.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Mvc.Core.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash",
-      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NP2svkDxlIVJsMiWAmj552NCYo4j7YnOUr2_jkz5_pc=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authentication.Core.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authentication.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash",
@@ -211,14 +216,204 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash",
-      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qFKmKNr9iAZiZxOVvLJBfMhkKfDy1GvY81fHh1hiphU=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\J2xQUZ4BD6tsrQkvGS5HDQfkTGMzmaS76TA9nJrtCpg=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Features.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Features.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\iw51tdKcETC5QqlJLWett1iPlLZgUrRdZfkV7EoaD4k=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authentication.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authentication.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RH648J556xp2UcR5qr7b4zB7s4gMzwxjFHGxfZc7I0A=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\D5akJeBd7NNITuzAXxlX7zl2jfsc4uTKyeEKwwNhqoo=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.WebUtilities.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.WebUtilities.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\P66ftDrXwc6ayND8uYzIk0CPQy1GjNZAPHx9RMhi3V4=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Net.Http.Headers.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Net.Http.Headers.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XWpybHUpZ8wVphhIR9fG6hmRgW2ZyVhXT6PfvOI7tsg=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyModel.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyModel.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vrQresrQjYlvmLF1TcQFTDnoyCPKWUc39vSvo5EfwmQ=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.AppContext.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.AppContext.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Extensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Extensions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0ohVYRI6PuBfqKMapEmY5Oi3pImDZfhTLw5evJsfue0=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.FileSystem.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.FileSystem.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LDxu9Sj9OxSBhmj-rzZPAmQaYAeuOf2ZCFbvrFIHC6k=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.FileSystem.Primitives.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.FileSystem.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\egPOud7Mcxx-20iAZiekEmazNYxAwi8HO1Z5_a4Ikww=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Linq.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Linq.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Newtonsoft.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CWadMXLl7iJZmsOz7PzKreH2b5rpyAFY8KYvg17YAv8=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8Q_uKcqkDjFjcXfcYU073dQlKb5IRta-UHFtV3Tjz9s=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reflection.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Reflection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ucB9cWNpHPmRNINsdPy37WDpMEpF4YCZDo21haOYFl4=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.DotNet.PlatformAbstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.DotNet.PlatformAbstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XAnEkn2DkDU-Xn588HKF6xZ5f3g9Eyzmw3DjEGtn2lM=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\j5QJ1kfdaGNztuV3Mt3g3soliZlv-iZA5H2spmGnlEc=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.RuntimeInformation.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.RuntimeInformation.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6CpyRQAYrVPJfNYBKH0K9lWX_rNPO15lwNhGHPmvxtk=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zWDzFtXZzC_KLMGVRm7c4nLj3X7VnzT9SMdxCVqb3dE=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Collections.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Collections.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4f7xvTVUxi0h0P0Hci5blPefIu8mspp-qgcIrxhfvdU=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authorization.Policy.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.Policy.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4NUQ26HmvXRi8smc0jz9940OUECDLQnoMWQLrMLe0ok=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\825GQI5nG1C1WqLD1SNKSpjzLCNbH2-KChgjBL0SSXI=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4VEnr-VXawxchLjnFr86t8XA5fF3ZLb61F6I54GBAoQ=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Hosting.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Hosting.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3FWyABkOEBeAcg6oyNO1PytWU_vm8OBnbxtkWVup0TI=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZL1vQsOs6lU2Jlc8Mmvd9_OIvkIY2_WwJiKJh0GNBug=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.DiagnosticSource.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.DiagnosticSource.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tFMMNru1KjM9tY0dph3potA-qlmOtgZOwHLp_imUF7Y=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.Debug.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.Debug.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mzuLugvmIOgYjOk4f3eQas5TIH2wER7oBvjOd1j22ps=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\g3D7CEj2L0Qctx7Es-Pvvvauld0RQjyo76PPB99L9Qk=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Diagnostics.Tracing.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Diagnostics.Tracing.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rL7yDIoSBIK2HEpXD-iOhoUrVkI3rsR07sn5BA5ddUg=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UCVqOmu_z9-M5Wahsgr7zKRWdGQWNvXGWLlEa1gkFuw=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.ObjectPool.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.ObjectPool.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2ZTJ3DDWIlT8zmUz46ry3ejC_qjXXqokBlQMq3pQ0ac=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Mvc.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Mvc.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qZRVEWfcR_k4p8USVOwZOOhVCCUvpVy2lySCkukS8fs=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Routing.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Routing.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\f8SrYmVRxkw2kSHm7wAbMLrEnhSrgXSMxdCSttKJ-SE=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Routing.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Routing.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dsGZ_sGJdrYngMg72CIF31THFtl6ovcKTjtGtj9orn8=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Extensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Extensions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash",
+      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash",
@@ -241,19 +436,9 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash",
-      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.br"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
-      "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
@@ -266,12 +451,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jCsED-sjsFz7cSS5DjiAClSTdwq9X1kia7FXaCfqiak=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6o5IDJwBIYXyyklmA1HjMgrH9jR6RWyyIlHXI9B6mbI=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SPA1.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SPA1.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\gx5dQAQKDw4zHzprL3d4pQkAH-KY96tsDqY8b8Fx9ao=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SlBM49S5-GTS-iRISVexd9AB0c5dhINCAJEmtdJLsrk=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\SPA1.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/SPA1.Shared.pdb.br"
     },
@@ -296,7 +481,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\GgXNPT8CUWxJtdUEGxGOhfPk9q2S7vAexox2-1XWjmc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SHmvY_wgCZyKJ8jf9ehBsh1o6TgldgbxEeN4HgOjiL8=.hash",
       "Source": "C:\\Users\\Roy\\Documents\\GitHub\\App\\SPA1\\SPA1\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

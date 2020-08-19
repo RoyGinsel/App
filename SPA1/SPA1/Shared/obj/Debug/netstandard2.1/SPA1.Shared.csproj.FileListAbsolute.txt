@@ -1,9 +1,9 @@
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\bin\Debug\netstandard2.1\SPA1.Shared.deps.json
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\bin\Debug\netstandard2.1\SPA1.Shared.dll
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\bin\Debug\netstandard2.1\SPA1.Shared.pdb
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.csprojAssemblyReference.cache
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.AssemblyInfoInputs.cache
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.AssemblyInfo.cs
-C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.dll
 C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.pdb
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.csprojAssemblyReference.cache
+C:\Users\Roy\Documents\GitHub\App\SPA1\SPA1\Shared\obj\Debug\netstandard2.1\SPA1.Shared.csproj.CoreCompileInputs.cache

@@ -1,0 +1,53 @@
+﻿@using SPA1.Shared
+@using SPA1.Shared.Models
+@inject HttpClient Http
+    <div class="w-auto">
+        <h2>Watched</h2>
+        <div class="hidden-scroll">
+            <div class="flex-column justify-content-between">
+                @if (watchedMovies == null)
+                {
+                    @for (int i = 0; i < 5; i++)
+                    {
+                        <div class="skeleton-card" />
+                    }
+                }
+                else
+                    @foreach (var movie in watchedMovies)
+                    {
+                        <div class="skeleton-card">
+                            <div class="card bg-dark text-white">
+                                <img class="card-img" src="@movie?.CoverImage" alt="Card image">
+                                <div class="card-img-overlay extra-info-hover">
+                                    <h5 class="card-title">@movie.Title</h5>
+                                    <p class="card-text">@movie?.Duration</p>
+                                    <p class="card-text">@movie.Description</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .extra-info-hover {
+            opacity: 0;
+            top: auto;
+            padding: 0;
+            background-color: rgba(0,0,0,0.5);
+        }
+
+            .extra-info-hover:hover {
+                opacity: 1;
+            }
+    </style>
+
+    @code {
+        public Movie[] watchedMovies { get; set; }
+
+        protected override async Task OnInitializedAsync()
+        {
+            watchedMovies = await Http.GetFromJsonAsync<Movie[]>("Movie/filter?Watched=1");
+        }
+    }

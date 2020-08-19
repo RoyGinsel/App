@@ -7,9 +7,23 @@
 <div class="main">
     <div class="top-row px-4">
         <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+        <span class="material-icons">http</span>
+        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+        <span class="material-icons fixed-bottom font-weight-bold" @onclick="openSettingsMenu">settings</span>
     </div>
-
     <div class="content px-4">
         @Body
+     <SPA1.Client.Pages.Components.PreferencesTab classCSS="@PreferencesCssClass" open="true" />
     </div>
+
 </div>
+
+@code{
+    private bool PreferencesTab;
+    private string PreferencesCssClass => PreferencesTab ? "" : "d-none";
+    private void openSettingsMenu()
+    {
+        PreferencesTab = true;
+    }
+}

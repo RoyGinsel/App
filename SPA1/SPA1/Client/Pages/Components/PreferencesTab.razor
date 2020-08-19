@@ -1,0 +1,23 @@
+﻿<div class="@classCSS position-absolute" style="top:0;bottom:0;left:0;right:0;">
+    <h3>PreferencesTab</h3>
+    <div class="d-flex">
+        <span class="material-icons font-weight-bold" @onclick="closeSettingsMenu">close</span>
+        <div class="flex-grow-1 flex-shrink-0">
+            <div class="d-flex justify-content-center ">
+                <div class="skeleton-block-large"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@code {
+    [Parameter]
+    public bool open { get; set; }
+
+    [Parameter]
+    public string classCSS { get; set; }
+
+    private void closeSettingsMenu()
+    {
+        classCSS = "";
+    }
+}
