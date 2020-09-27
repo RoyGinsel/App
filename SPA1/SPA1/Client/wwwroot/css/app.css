@@ -156,7 +156,6 @@ app {
     }
 
     .sidebar {
-        width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
@@ -210,5 +209,11 @@ img {
 }
 
 .carousel-item {
-    height: 50vh;
+    height: 60vh;
+}
+.carousel-item img{
+    object-fit:cover;
+}
+.h4 {
+    font-size:1.1rem;
 }

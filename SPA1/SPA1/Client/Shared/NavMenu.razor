@@ -1,44 +1,65 @@
-﻿<div class="top-row pl-4 navbar navbar-dark">
-    <a class="navbar-brand" href="">RLA</a>
-    <button class="navbar-toggler" @onclick="ToggleNavMenu">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-</div>
+﻿
+    <div class="sidebar-header top-row pl-4 navbar navbar-dark">
+        <a class="navbar-brand" href="">Roy Ginsel</a>
+        <strong><a class="navbar-brand" href="">RG</a> </strong>
+        <button class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
 
-<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
-    <ul class="nav flex-column">
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="skeleton">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Skeleton
-            </NavLink>
-        </li>
-        <li class="nav-item px-3">
-            <NavLink class="nav-link" href="Movies">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Movies
-            </NavLink>
-        </li>
-    </ul>
-    
-</div>
+    <div class="@NavMenuCssClass" style="padding-right: 20px;" @onclick="ToggleNavMenu">
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                    <i class="oi fas fa-home"></i>
+                    <h4 class="@sidebarClass mb-0">Home</h4>
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="counter">
+                    <span class="oi fas fa-id-card" aria-hidden="true"></span>
+                    <h4 class="@sidebarClass mb-0">About me</h4>
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="Skills">
+                    <i class="oi fas fa-laptop"></i>
+                    <h4 class="@sidebarClass mb-0">Skills</h4>
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="fetchdata">
+                    <span class="oi fas fa-music" aria-hidden="true"></span>
+                    <h4 class="@sidebarClass mb-0">Music</h4>
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="skeleton">
+                    <span class="oi fas fa-palette" aria-hidden="true"></span>
+                    <h4 class="@sidebarClass mb-0">Art</h4>
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="Movies">
+                    <i class="oi fas fa-video"></i>
+                    <h4 class="@sidebarClass mb-0">Movies</h4>
+                </NavLink>
+            </li>
+
+            <li class="nav-item">
+                <NavLink class="nav-link" href="Movies">
+                    <i class="oi fas fa-chart-line"></i>
+                    <h4 class="@sidebarClass mb-0">Statistics</h4>
+                </NavLink>
+            </li>
+        </ul>
+    </div>
 
 @code {
-    private bool collapseNavMenu = true;
+    [Parameter]
+    public string sidebarClass { get; set; }
 
+    private bool collapseNavMenu = true;
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
     private void ToggleNavMenu()

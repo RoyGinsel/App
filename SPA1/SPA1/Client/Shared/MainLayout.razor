@@ -1,21 +1,41 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="sidebar d-flex flex-column">
-    <NavMenu />
-        <button type="button" class="btn-primary" style="bottom: 0;" data-toggle="modal" data-target="#exampleModal">
-            Preferences <span class="material-icons font-weight-bold">settings</span>
-        </button>
-</div>
-<SPA1.Client.Pages.Components.PreferencesTab />
+<nav id="sidebar" class="sidebar @SidebarClass d-flex flex-column">
+    <NavMenu sidebarClass="@SidebarClass" />
+    <button type="button" class="btn-primary" style="bottom: 0;" data-toggle="modal" data-target="#exampleModal">
+        <span class="material-icons font-weight-bold">settings</span>
+        <h4 class="@SidebarClass mb-0"> Preferences </h4>
+    </button>
 
-<div class="main">
-    <HeaderLayout />
+    <footer class="container">
+        <p class="float-right"><a href="#">Back to top</a></p>
+        <p>2020 Roy Ginsel <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+    </footer>
+</nav>
+<PreferencesTab mainBackgroundColor="_mainBackgroundColor"/>
 
-    <div class="content px-4">
+<div class="main" style="background-color: @preferences.mainBackgroundColor">
+    <button type="button" @onclick="ResizeSidebar" class="btn btn-info position-fixed modal-dialog-centered"
+            style="max-height: 8vh; min-height: 0; top: 50vh; padding-left: 0px;z-index: 1000;
+                    padding-right: 15px; border-bottom-right-radius: 50%; border-top-right-radius: 50%;">
+        <i class="fas @SidebarIconClass"></i>
+    </button>
+@*    <HeaderLayout />
+*@
+    <div class="content p-0">
         @Body
     </div>
 
 </div>
 
 @code{
+    public Preferences preferences { get; set; }
+    private bool shrinkSidebar = false;
+    private string SidebarClass => shrinkSidebar ? "active" : null;
+    private string SidebarIconClass => shrinkSidebar ? "fa-caret-right" : "fa-caret-left";
+
+    private void ResizeSidebar()
+    {
+        shrinkSidebar = !shrinkSidebar;
+    }
 }
